@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ticket" max_length="40" name="x_58872_needit_ticket" sizeclass="3" type="collection">
+        <element label="Name" max_length="125" name="name" type="string"/>
+    </element>
+</database>
